@@ -11,3 +11,11 @@ Using a local legacy server should be seen as an interim measure, because the se
 ## No warranty use at your own risk
 
 Versions prior to 0.41.17 are certainly affected by security problems of the Log4j2 library ([see here](https://logging.apache.org/log4j/2.x/security.html))
+
+## Latest binary
+
+Latest binary is version [0.41.17](https://github.com/gablau/blynk-server-binaries/tree/master/0.41.17)
+
+## Server source code
+
+A fork of the source code can be found here: [https://github.com/gablau/blynk-server](https://github.com/gablau/blynk-server)
